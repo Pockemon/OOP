@@ -1,5 +1,9 @@
+/*
+   HARDIK RANA
+    
+   program to use class concept in c++ and create class for person which ask's person his name and age and printing name and age values entered by person
 
-//program to use class concept in c++ and create class for person which ask's person his name and age and printing name and age values entered by person
+*/
 
 #include<bits/stdc++.h>
 using namespace std;
