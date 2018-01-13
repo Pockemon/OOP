@@ -1,5 +1,9 @@
+/* 
+  HARDIK RANA
+  
+  program to create and print linked list using class concept in c++
 
-//program to create and print linked list using class concept in c++
+*/
 
 #include<bits/stdc++.h>
 using namespace std;
