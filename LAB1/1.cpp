@@ -1,5 +1,10 @@
 
-//program to use concept of inline function in c++ and print product of two numbers
+/*
+   HARDIK RANA
+   
+   program to use concept of inline function in c++ and print product of two numbers
+
+*/
 
 #include<bits/stdc++.h>
 using namespace std;
