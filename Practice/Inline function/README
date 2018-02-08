@@ -1,1 +1,6 @@
 
+Function take much time,because compiler have to jump when function is called from main and have to return when function execution is complete.
+
+but when funciton code is small we can use inline function so that it will take less time.
+
+inline function requests to compiler,compiler may or may not accept request.
