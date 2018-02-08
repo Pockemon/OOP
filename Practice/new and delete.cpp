@@ -25,5 +25,7 @@ int main()
         total=total+*(p+i);
     }
     cout<<"total\n"<<total;
+    //cout<<p<<endl;
+    delete []p;
     return 0;
 }
