@@ -1,4 +1,8 @@
-//to take marks of different subject from student and calculate sum of that
+/*
+     HARDIK RANA
+     
+    to take marks of different subject using dynamic memory allocation from student and calculate sum of that
+ */
 
 #include<iostream>
 
