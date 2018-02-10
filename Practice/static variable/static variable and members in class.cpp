@@ -1,3 +1,4 @@
+//static data members and member functions
 
 #include<iostream>
 
