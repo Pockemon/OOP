@@ -1,3 +1,5 @@
+//use of static variable in c program
+
 #include<iostream>
 using namespace std;
 
