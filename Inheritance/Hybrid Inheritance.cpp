@@ -1,3 +1,11 @@
+/*
+  Hardik Rana
+  
+  Hybrid Inheritance
+  
+*/
+
+
 #include<iostream>
 
 using namespace std;
