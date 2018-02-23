@@ -1,4 +1,8 @@
-//single inheritance
+/* Hardik Rana
+  
+   single inheritance to add two numbers
+   
+*/
 
 #include<iostream>
 
