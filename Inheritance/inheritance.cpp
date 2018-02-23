@@ -1,3 +1,8 @@
+/* Hardik Rana
+  
+   inheritance introduction
+   
+*/
 
 #include <bits/stdc++.h>
 using namespace std;
