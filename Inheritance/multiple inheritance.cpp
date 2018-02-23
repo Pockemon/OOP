@@ -1,3 +1,11 @@
+/*
+  Hardik Rana
+  
+  Multilple Inheritance
+  
+*/
+
+
 #include<iostream>
 
 using namespace std;
