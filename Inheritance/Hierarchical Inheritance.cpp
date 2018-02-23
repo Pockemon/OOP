@@ -1,3 +1,9 @@
+/*
+  Hardik Rana
+  
+  Hierarchical  Inheritance
+  
+*/
 
 #include<iostream>
 
