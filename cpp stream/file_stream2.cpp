@@ -19,7 +19,7 @@ int main()
 
     // opening file without closing the previous stream
     // does not give error but does not allow writing into the file
-    ofs.open("file2.txt");
+    ofs.open("file2.txt",fstream::app);
     ofs<<"write3"<<endl;
     ofs.close();
     ifs.open("file2.txt");
