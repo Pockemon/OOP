@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-template <typename T>
+template <class T>
 
 class math
 {
@@ -18,13 +18,13 @@ public:
 };
 
 //if you are defining functions outside of class then you have to again define template
-template <typename T>
+template <class T>
 void math<T>::add()
 {
     cout<<"addition is="<<first+second<<endl;
 }
 
-template <typename T>
+template <class T>
 void math<T>::multiply()
 {
     cout<<"multiplication is="<<first*second<<endl;
