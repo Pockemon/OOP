@@ -12,7 +12,7 @@ using namespace std;
 
 class A
 {
-   protected: //can we used in this class and can we also used in that class which is derived from this class
+   protected: //can be used in this class and can also used in that class which is derived from this class
        int n;
    public:
        void get_n(int);
