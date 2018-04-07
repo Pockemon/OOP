@@ -11,5 +11,10 @@
    * Class to Base
    * Class to Class
 * Inheritance
+   * Single inheritance
+   * Multiple inheritance
+   * Multievel inheritance
+   * Hierarchical inheritance
+   * Hybrid inheritance
 * Templates
 * Cpp streams
