@@ -4,8 +4,13 @@
 ## Topics Implemented
 
 * Class Basics
+  * nested class
 * Inline function
 * Operator overloading
+  * unary operator overloading using member function
+  * unary operator overloading using friend function
+  * binary operator overloading using member function
+  * binary operator overloading using friend function
 * Type conversion
    * Base to class
    * Class to Base
@@ -16,5 +21,8 @@
    * Multievel inheritance
    * Hierarchical inheritance
    * Hybrid inheritance
+   * Constructor in derived class 
+   * initialization list 
 * Templates
 * Cpp streams
+
