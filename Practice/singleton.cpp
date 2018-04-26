@@ -7,6 +7,7 @@ class st
 private:
     static st *instance;
     int data;
+    st() {}
 public:
     static st *Instance()
     {
